@@ -1,0 +1,13 @@
+.text{
+    border:5px solid red ;
+    height: 100px;
+    width: 400px;
+    padding-left: 50px;
+    margin-left: 50px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+.hi{
+    background-color: brown;
+    color: yellow;
+}
